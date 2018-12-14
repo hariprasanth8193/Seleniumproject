@@ -20,6 +20,8 @@ public class Alertviews {
 	}
 	public void alertoptions() throws InterruptedException  {
 		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub
 
 		System.setProperty("webdriver.chrome.driver", "D:\\New folder\\Study\\Selenium\\src\\Driver\\chromedriver.exe");
 		WebDriver drv = new ChromeDriver();
